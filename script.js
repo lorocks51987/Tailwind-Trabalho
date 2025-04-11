@@ -50,3 +50,18 @@ particlesJS("particles-js", {
     },
     retina_detect: true
 });
+
+function abrirModal(idModal) {
+    const modal = document.getElementById(idModal);
+    modal.classList.remove("hidden");
+
+    // Remover listeners anteriores, se houver
+    const clone = modal.cloneNode(true);
+    modal.parentNode.replaceChild(clone, modal);
+
+    clone.addEventListener("click", (e) => {
+        if (e.target.closest("[data-close-modal]") || e.target.id === idModal) {
+            clone.classList.add("hidden");
+        }
+    });
+}

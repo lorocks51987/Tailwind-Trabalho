@@ -40,6 +40,11 @@ main section {
 }
 
 /* Seções alternadas com leve fundo */
- main section:nth-child(even) { /* even = pares */
+main section:nth-child(even) {
+    /* even = pares */
     background-color: rgba(255, 255, 255, 0.05);
+}
+
+#janela-modal.abrir {
+    display: flex;
 }
