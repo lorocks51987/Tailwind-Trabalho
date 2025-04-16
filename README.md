@@ -1,54 +1,32 @@
-# 🌟 Fábrica de Projetos Ágeis - Unimar
+# 🌐 Site do Projeto - Fábrica de Projetos Ágeis - Unimar
 
-Este é um projeto desenvolvido para a disciplina **Fábrica de Projetos Ágeis**, ofertada pela Universidade de Marília (Unimar) nos cursos de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**.
+Este site foi desenvolvido como parte da disciplina **Tecnologias de Frontend** do **3º termo de Análise e Desenvolvimento de Sistemas (ADS)** da **Universidade de Marília (Unimar)**. O desenvolvimento foi realizado com o objetivo de aplicar os conceitos aprendidos sobre **TailwindCSS**, como parte do estudo prático realizado pelos alunos.
 
-## 📌 Sobre a Disciplina
+## 🚀 Sobre o Site
 
-A disciplina integra, de forma prática, os conteúdos aprendidos ao longo do semestre, por meio do desenvolvimento de projetos reais em parceria com empresas. Isso proporciona uma vivência que une teoria e prática, simulando cenários do mercado de trabalho.
+O site foi criado para apresentar informações sobre o projeto que será desenvolvido na **Fábrica de Projetos Ágeis**. A página contém um layout moderno e responsivo, criado com o intuito de fornecer uma visão clara e atrativa sobre o projeto que será abordado durante a disciplina. O design e a estrutura do site foram planejados para oferecer uma experiência de usuário fluida e visualmente agradável.
 
-> "A disciplina proporciona aos alunos uma experiência única, combinando teoria e prática de maneira inovadora."  
-> — Prof. Dr. Caio Saraiva Coneglian
-
-## 💼 Sobre a Empresa
-
-(adicionar texto)
-
-## 🚀 Sobre o Projeto
-
-(adicionar texto)
-
-O site conta com um background interativo utilizando a biblioteca **[particles.js](https://vincentgarreau.com/particles.js/)**, trazendo uma experiência visual moderna e dinâmica para o usuário.
+O site inclui um **efeito de fundo interativo**, utilizando a biblioteca `particles.js`, que cria uma animação dinâmica para o usuário. A combinação de **TailwindCSS** com **JavaScript** permite uma navegação simples, enquanto o uso de boas práticas de **design responsivo** garante que a interface se adapte a diferentes dispositivos.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3 + TailwindCSS
-- JavaScript
-- particles.js (efeito de background)
-- Python
-- C#
-- Git e GitHub
-- Figma
-- Trello
-- Visual Studio Code
+O site foi desenvolvido utilizando as seguintes tecnologias:
+
+- **HTML5**: Linguagem de marcação responsável pela estruturação do conteúdo do site.
+- **CSS3 + TailwindCSS**: Utilizados para estilizar o site de forma moderna e responsiva, permitindo a criação de layouts flexíveis e eficientes.
+- **JavaScript**: Utilizado para implementar funcionalidades interativas, como a animação de fundo com `particles.js`.
+- **particles.js**: Biblioteca JavaScript que cria um efeito de fundo interativo, melhorando a experiência visual do site.
+- **Git e GitHub**: Ferramentas utilizadas para controle de versão e colaboração durante o desenvolvimento do projeto.
 
 ## 📸 Visual do Projeto
 
-(adicionar imagem)
+![Captura de tela 2025-04-15 180446](https://github.com/user-attachments/assets/332e1dae-d580-4f9c-8825-9e3fb851408c)
+![Captura de tela 2025-04-15 180453](https://github.com/user-attachments/assets/331d6457-a675-407a-8661-083784daedfb)
+![Captura de tela 2025-04-15 180507](https://github.com/user-attachments/assets/090a4f15-b5b0-4e5a-9ef1-246590141822)
+![Captura de tela 2025-04-15 180513](https://github.com/user-attachments/assets/63438a49-cb07-41bd-bf4d-f7d65a5d1db5)
 
-## 🎯 Objetivos
 
-- Aplicar conhecimentos de desenvolvimento web fullstack;
-- Trabalhar com integração de APIs;
-- Exercitar o trabalho em equipe e a comunicação com empresas reais;
-- Documentar tecnicamente todo o processo.
 
----
+## 🔗 Acesso ao Projeto
 
-## 🔗 Acesse
-
-Você pode abrir o projeto localmente com qualquer navegador moderno, apenas abrindo o arquivo `index.html`.
-
----
-
-📍 Desenvolvido com dedicação por alunos da Unimar — 2025.
+Para visualizar o site localmente, basta abrir o arquivo `index.html` em qualquer navegador moderno.
